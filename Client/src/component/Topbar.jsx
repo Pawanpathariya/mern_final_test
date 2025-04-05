@@ -8,7 +8,8 @@ const Topbar = () => {
     <Link to="/country">Country</Link>
     <Link to="/state">state</Link>
     <Link to="/city">City</Link>
-    <Link to="/display">Display</Link>
+    <Link to="/disdata">Display</Link>
+    <Link to="/display">Search</Link>
 </nav>
   )
 }
